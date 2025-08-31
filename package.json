@@ -1,0 +1,39 @@
+{
+  "name": "cookie-events",
+  "version": "1.0.0",
+  "description": "Lightweight, event-driven cookie manager for parsing, setting, and tracking cookies with ease.",
+  "main": "./lib/cookie.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0",
+    "build": "echo \"No build required\""
+  },
+  "keywords": [
+    "cookie",
+    "cookies",
+    "cookie-manager",
+    "cookie-events",
+    "cookieStore",
+    "browser",
+    "storage",
+    "utility",
+    "lightweight",
+    "jsvibe",
+    "javascript"
+  ],
+  "author": "Indian Modassir <indianmodassir@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsvibe/cookie-events.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jsvibe/cookie-events/issues"
+  },
+  "homepage": "https://github.com/indianmodassir",
+  "funding": [
+    {
+      "type": "github",
+      "url": "https://github.com/sponsors/jsvibe"
+    }
+  ]
+}
