@@ -45,7 +45,7 @@ Below are some of the most common ways to include cookie-events.
 **CDN Link**
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/cookie-events@1.0.0/lib/cookie.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/cookie-events@1.1.0/lib/cookie.min.js"></script>
 ```
 
 You can add the script manually to your project:
